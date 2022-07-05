@@ -1,0 +1,7 @@
+ {
+    "signUp": "Sign Up",
+    "userName": "User name",
+    "email" : "Email",
+    "password" : "Password",
+    "passwordRepeat" : "Password repeat"
+  }
