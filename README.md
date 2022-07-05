@@ -1,3 +1,6 @@
+This is a little project I've developed in order to learn how to communate with an external public Api. The files also contain some pages I've developed from an Udemy course that was teaching me React with TDD. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
